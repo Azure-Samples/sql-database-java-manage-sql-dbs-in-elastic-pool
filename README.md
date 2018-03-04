@@ -1,13 +1,13 @@
 ---
 services: Sql
 platforms: java
-author: anudeepsharma
+author: milismsft
 ---
 
 ## Getting Started with Sql - Manage Sql Database In Elastic Pool - in Java ##
 
 
-  Azure Storage sample for managing SQL Database -
+  Azure SQL sample for managing SQL Database -
    - Create a SQL Server with elastic pool and 2 databases
    - Create another database and add it to elastic pool through database update
    - Create one more database and add it to elastic pool through elastic pool update.
